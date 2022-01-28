@@ -22,4 +22,5 @@
 ![image](https://github.com/cccz1/15lreport/blob/main/Screenshot%202022-01-14%20101624.png?raw=true)
 5. Use $ ssh-keygen command to set up the ssh key to avoid typing password every time you use the scp command. This saves you a lot of time.
     At this time, the ssh keygen command has already been set up, and I don't have a screenshot for this at the time I set things up, so unfortunately, the screenshot cannot be provided.
-6. Use ; to seperate the tasks, so that you can operate a multiple task command in one command line.  
+6. Use ; to seperate the tasks, so that you can operate a multiple task command in one command line.  Us commandline argument such as ls locally so that I can avoid logging into the remote server to call these command again, saves time.
+![Image](https://github.com/cccz1/15lreport/blob/main/Screenshot%202022-01-28%20152910.png?raw=true)
