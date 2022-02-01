@@ -24,7 +24,7 @@
 4. Then, use exit command to exit, and create a file on your local folder. Then use the `$ scp filename account` command to copy that file to the server. You may be asked to type in your password again.
 ![image](https://github.com/cccz1/15lreport/blob/main/Screenshot%202022-01-14%20101624.png?raw=true)
 ## Setting an SSH Key
-5. Use `$ ssh-keygen` command to set up the ssh key to avoid typing password every time you use the scp command. This saves you a lot of time.
+5. Use `$ ssh-keygen` command to set up the `ssh` key to avoid typing password every time you use the scp command. This saves you a lot of time.
     At this time, the `ssh-keygen` command has already been set up, and I don't have a screenshot for this at the time I set things up, so unfortunately, the screenshot cannot be provided.
     ![image](https://github.com/cccz1/15lreport/blob/main/Screenshot%202022-01-31%20174657.png?raw=true)
 ## Optimizing Remote Running
